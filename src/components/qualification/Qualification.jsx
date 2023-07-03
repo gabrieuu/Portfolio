@@ -12,7 +12,7 @@ export const Qualification = () => {
                     <div className="qualification__button qualification__active button--flex">
                         
                         <i className="uil uil-graduation-cap 
-                        qualification__icon"></i>Education
+                        qualification__icon"></i>Educação
 
                     </div>
 
@@ -44,7 +44,7 @@ export const Qualification = () => {
                                 <span className="qualification__subtitle">Brasil - Universidade Federal de Ciencias e Tecnologia</span>
                                
                                 <div className="qualification__calendar">
-                                    <i className="uil uil-calendar-alt"></i> 2022 - Present
+                                    <i className="uil uil-calendar-alt"></i> 2022 - Atualmente
                                 </div>
                                 
                             </div>
