@@ -1,6 +1,6 @@
 import CloneNetflix from '../../assets/CloneNetflix.jpg'
-import Work2 from '../../assets/work2.jpg'
-import Work3 from '../../assets/work3.jpg'
+import SistemaFinanceiro from '../../assets/SistemaFinanceiro.jpg'
+import lojaVirtual from '../../assets/lojaVirtual.jpg'
 
 export const ProjectsData = [
     {
@@ -11,14 +11,14 @@ export const ProjectsData = [
     },
     {
         id:2,
-        image: Work2,
+        image: SistemaFinanceiro,
         title:'Sistema de Finança',
-        href: '#'
+        href: 'https://github.com/gabrieuu/sistema_financa'
     },
     {
         id:3,
-        image: Work3,
+        image: lojaVirtual,
         title:'Loja Virtual',
-        href: '#'
+        href: 'https://loja-react.netlify.app/'
     },
 ]
