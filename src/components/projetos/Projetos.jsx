@@ -8,7 +8,7 @@ export const Projeto = () => {
 
             <Works/>
             
-            <a href='#' className="button section__button">Ver Todos </a>
+            <a href='https://github.com/gabrieuu' target='_blank' className="button section__button">Ver Todos </a>
         </section>
     )
 }
