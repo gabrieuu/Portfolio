@@ -1,9 +1,16 @@
 import CloneNetflix from '../../assets/CloneNetflix.jpg'
 import SistemaFinanceiro from '../../assets/SistemaFinanceiro.jpg'
-import lojaVirtual from '../../assets/lojaVirtual.jpg'
+import TodoList from '../../assets/TodoList.jpg'
 import CloneNubank from '../../assets/ImageBank.jpg'
 export const ProjectsData = [
     
+    {
+        id:4,
+        image: TodoList,
+        title:'Lista de Tarefas',
+        category: 'Mobile',
+        href: 'https://github.com/gabrieuu/todo_List_flutter'
+    },
     {
         id:3,
         image: CloneNubank,
