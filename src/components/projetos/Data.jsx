@@ -2,7 +2,7 @@ import CloneNetflix from '../../assets/CloneNetflix.jpg'
 import SistemaFinanceiro from '../../assets/SistemaFinanceiro.jpg'
 import TodoList from '../../assets/TodoList.jpg'
 import CloneNubank from '../../assets/ImageBank.jpg'
-import WeatherApp from '../../assets/WeatherApp.jpg'
+import WeatherApp from '../../assets/weatherApp.jpg'
 export const ProjectsData = [
     
     {
