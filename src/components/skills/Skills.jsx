@@ -9,7 +9,7 @@ export const Skills = () => {
 
             <div className="skills__container container">
                 <Frontend/>
-                <Backend/>
+                
             </div>
         </section>
     )

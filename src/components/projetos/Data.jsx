@@ -2,8 +2,16 @@ import CloneNetflix from '../../assets/CloneNetflix.jpg'
 import SistemaFinanceiro from '../../assets/SistemaFinanceiro.jpg'
 import TodoList from '../../assets/TodoList.jpg'
 import CloneNubank from '../../assets/ImageBank.jpg'
+import WeatherApp from '../../assets/WeatherApp.jpg'
 export const ProjectsData = [
     
+    {
+        id:5,
+        image: WeatherApp,
+        title:'App de clima',
+        category: 'Mobile',
+        href: 'https://github.com/gabrieuu/weather_app'
+    },
     {
         id:4,
         image: TodoList,
