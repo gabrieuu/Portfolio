@@ -3,13 +3,21 @@ import SistemaFinanceiro from '../../assets/SistemaFinanceiro.jpg'
 import TodoList from '../../assets/TodoList.jpg'
 import CloneNubank from '../../assets/ImageBank.jpg'
 import WeatherApp from '../../assets/weatherApp.jpg'
+import OursChat from '../../assets/ourschat.jpg'
 export const ProjectsData = [
     
+    {
+        id:6,
+        image: OursChat,
+        title:'App de chat',
+        category: 'Mobile', 
+        href: 'https://github.com/gabrieuu/OursChat'
+    },
     {
         id:5,
         image: WeatherApp,
         title:'App de clima',
-        category: 'Mobile',
+        category: 'Mobile', 
         href: 'https://github.com/gabrieuu/weather_app'
     },
     {
