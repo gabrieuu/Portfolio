@@ -4,8 +4,15 @@ import TodoList from '../../assets/TodoList.jpg'
 import CloneNubank from '../../assets/ImageBank.jpg'
 import WeatherApp from '../../assets/weatherApp.jpg'
 import OursChat from '../../assets/ourschat.jpg'
+import BookApp from '../../assets/bookApp.jpg'
 export const ProjectsData = [
-    
+    {
+        id:7,
+        image: BookApp,
+        title:'App de Livros',
+        category: 'Mobile', 
+        href: 'https://github.com/gabrieuu/book_app'
+    },
     {
         id:6,
         image: OursChat,
